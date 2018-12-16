@@ -1,9 +1,4 @@
-<div dir="rtl" align="right">
-
-# هفتهٔ نخست
-
-## مقدمه
-
-
-
-</div>
+# My Machine Learning Journey
+--
+* [Octave](/octave)
+* [100DaysOfMlCode](/100DaysOfMlCode)
