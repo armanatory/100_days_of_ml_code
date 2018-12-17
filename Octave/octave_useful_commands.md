@@ -2,8 +2,8 @@
 
 ---------
 
-## Octave Useful Commands and Functions
+# Octave Useful Commands and Functions
 
-# spn
-
-dsds
+Command | Description | Sample
+--------| ----------- | ------
+Test | Test1 | Test2
