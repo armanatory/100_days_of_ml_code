@@ -3,6 +3,9 @@
 -----
 # 100DaysOfMlCode
 
-## Day 1
+#### Day 2: December 19th, 2018
+Lurem ipsume
+
+#### Day 1: December 18th, 2018
 Lurem ipsume
 
