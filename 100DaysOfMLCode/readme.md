@@ -4,6 +4,9 @@
 # 100DaysOfMlCode
 Although, this is not my first n-days challenge of sth, and I left some previous behind, but due to the motives of my friend @Mehran97_r, I hope to stick on this. Alongside the twitter, I'm going to log the days on my GitHub account. #100DaysOfMlCode #Day1
 
+#### Day 3: December 25th, 2018
+I've finished the week2 assignment successfully and started the new week which covers the classification and Logistic regression. Furthermore, I tried some matrix examples and properties in Octave. It seems to be fun. #100DaysOfMlCode #Day3
+
 #### Day 2: December 20th, 2018
 On the second day, I've been reviewing week 1 and week 2 and tracing the theories in #Octave to prepare myself for solving the rest of the assignment of week 2. I myself really eager to know and understand the ideas deeply, so decided to have a review on the passed sections. #100DaysOfMlCode #Day2
 
