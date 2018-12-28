@@ -3,7 +3,7 @@
 -----
 # 100DaysOfMlCode
 I will log my tries on a 100 days journey of machine learning here. Furthermore, I'll publish some of them through my twitter account.
-
+-----
 
 #### Day 5: December 28th, 2018
 I have got deeper in binary and multiclass classification through the week 3 of Andrew Ng course. The All-vs-one or All-vs-rest algorithm reminds me of the battles of Napolean. Also, I successfully passed the mid-week quiz and got the 100 percent of its mark.  #100DaysOfMlCode #Day5
