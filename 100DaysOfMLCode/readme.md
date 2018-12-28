@@ -2,7 +2,7 @@
 
 -----
 # 100DaysOfMlCode
-Although, this is not my first n-days challenge of sth, and I left some previous behind, but due to the motives of my friend @Mehran97_r, I hope to stick on this. Alongside the twitter, I'm going to log the days on my GitHub account. #100DaysOfMlCode #Day1
+I will log my tries on a 100 days journey of machine learning here. Furthermore, I'll publish some of them through my twitter account.
 
 
 #### Day 5: December 28th, 2018
