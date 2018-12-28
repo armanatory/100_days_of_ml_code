@@ -3,6 +3,7 @@
 -----
 # 100DaysOfMlCode
 I will log my tries on a 100 days journey of machine learning here. Furthermore, I'll publish some of them through my twitter account.
+
 -----
 
 #### Day 5: December 28th, 2018
