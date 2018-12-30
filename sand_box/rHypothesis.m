@@ -1,3 +1,3 @@
-function predictions = rHypothesis (theta, X)
-  predictions = theta'*X;
+function predictions = rHypothesis (X,theta)
+    predictions = X * theta;
 endfunction
