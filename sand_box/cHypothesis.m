@@ -1,4 +1,3 @@
-function j = cHypothesis (X, theta)
-  
-j =5
+function predictions = cHypothesis (theta, X)
+  predictions = sigmoid(theta'*X);
 endfunction
