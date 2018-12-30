@@ -5,9 +5,11 @@
 I will log my tries on a 100 days journey of machine learning here. Furthermore, I'll publish some of them through my twitter account.
 
 -----
-#### Day 6: December 29th, 2018
+#### Day 7: December 30th, 2018
+Due to improve the perceptions, I've tried to fix my mathematical infrastructures by pen, paper and Octave to make much more intuitions about the ideas of linear regression and classification such as gradient descent, normal equation, feature scaling, etc. #100DaysOfMlCode #Day7
 
-Overfitting problem, regularization #100DaysOfMlCode #Day6
+#### Day 6: December 29th, 2018
+I tried to tackle the rest of week 3 and been familiarized with Overfitting problem and regularization as a way to solve that. However, I found it somehow hard to precept. #100DaysOfMlCode #Day6
 
 #### Day 5: December 28th, 2018
 I have got deeper in binary and multiclass classification through the week 3 of Andrew Ng course. The All-vs-one or All-vs-rest algorithm reminds me of the battles of Napolean. Also, I successfully passed the mid-week quiz and got the 100 percent of its mark.  #100DaysOfMlCode #Day5
