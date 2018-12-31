@@ -5,6 +5,10 @@
 I will log my tries on a 100 days journey of machine learning here. Furthermore, I'll publish some of them through my twitter account.
 
 -----
+#### Day 8: December 31th, 2018
+Played with Octave and matrices for some hours. Also proceeded the coursera ML course and passed the rest viedos of week3.
+#100DaysOfMlCode #Day8
+
 #### Day 7: December 30th, 2018
 Due to improve the perceptions, I've tried to fix my mathematical infrastructures by pen, paper and Octave to make much more intuitions about the ideas of linear regression and classification such as gradient descent, normal equation, feature scaling, etc. #100DaysOfMlCode #Day7
 
