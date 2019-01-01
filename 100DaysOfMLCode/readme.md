@@ -6,7 +6,7 @@ I will log my tries on a 100 days journey of machine learning here. Furthermore,
 
 -----
 #### Day 8: December 31th, 2018
-Played with Octave and matrices for some hours. Also proceeded the coursera ML course and passed the rest viedos of week3.
+Played with Octave and matrices for some hours. Also proceeded the coursera ML course and passed the rest viedos of week3. did week3 assignments.
 #100DaysOfMlCode #Day8
 
 #### Day 7: December 30th, 2018
