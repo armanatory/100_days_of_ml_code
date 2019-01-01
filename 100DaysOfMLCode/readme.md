@@ -5,6 +5,10 @@
 I will log my tries on a 100 days journey of machine learning here. Furthermore, I'll publish some of them through my twitter account.
 
 -----
+#### Day 9: January 1st, 2019
+ANN, 
+#100DaysOfMlCode #Day9
+
 #### Day 8: December 31th, 2018
 Played with Octave and matrices for some hours. Also proceeded the coursera ML course and passed the rest viedos of week3. did week3 assignments.
 #100DaysOfMlCode #Day8
