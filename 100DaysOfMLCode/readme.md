@@ -5,8 +5,20 @@
 I will log my tries on a 100 days journey of machine learning here. Furthermore, I'll publish some of them through my twitter account.
 
 -----
+#### Day 12: January 4th, 2019
+Did assignemtn of week 4 
+#100DaysOfMlCode #Day12
+
+#### Day 11: January 3rd, 2019
+Finished courses and did the quiz of week4, 
+#100DaysOfMlCode #Day11
+
+#### Day 10: January 2nd, 2019
+Continue of week4, 
+#100DaysOfMlCode #Day10
+
 #### Day 9: January 1st, 2019
-ANN, 
+started week4, 
 #100DaysOfMlCode #Day9
 
 #### Day 8: December 31th, 2018
