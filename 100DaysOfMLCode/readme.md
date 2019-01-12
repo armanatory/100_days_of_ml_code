@@ -5,6 +5,19 @@
 I will log my tries on a 100 days journey of machine learning here. Furthermore, I'll publish some of them through my twitter account.
 
 -----
+#### Day 15: January 00th, 2019
+#100DaysOfMlCode #Day15
+
+
+#### Day 14: January 12th, 2019
+I've continued studying the week 5 sections of machine learning course at Coursera and get much more intuitions about the backpropagation algorithm. Despite it seems to be somehow complex at the first glance, it will become understandable after a bit more effort for sure.
+#100DaysOfMlCode #Day14
+
+#### Day 13: January 10th, 2019
+Get started into the week 5 of machine learning coures. In addition, I tried to study calculus in my free times.
+#100DaysOfMlCode #Day13
+
+
 #### Day 12: January 4th, 2019
 Did assignemtn of week 4 
 #100DaysOfMlCode #Day12
