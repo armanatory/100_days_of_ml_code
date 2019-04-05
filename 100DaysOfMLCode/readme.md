@@ -4,6 +4,14 @@
 # 100DaysOfMlCode
 I will log my tries on a 100 days journey of machine learning here. Furthermore, I'll publish some of them through my twitter account.
 
+sample: 
+#### Day 0: February 10, 2019
+Today's Progress: XXX
+
+Thoughts: xxx
+
+Links to paper: XXX
+
 -----
 #### Day 15: January 00th, 2019
 #100DaysOfMlCode #Day15
