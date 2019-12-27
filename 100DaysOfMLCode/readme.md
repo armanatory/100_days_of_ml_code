@@ -15,16 +15,17 @@ Links to paper: XXX
 -----
 #### Day 15: December 27th, 2019
 #100DaysOfMlCode #Day15
-Today's Progress: After about one year of being out of my machine learning journey, I've got involved into entrance exam of RahnamaCollege ML camp. The contest has brought out the flavour of ML for me. I am so vigorous and motivated to start my journey again. I'm going to start learning a linear algebra course tonight.
+
+Today's Progress: After about one year of losing my 100DaysOfMLCode journey, I've got involved in the entrance exam of an ML camp bringing out the flavor of ML in my mind again. I'm so vigorous and motivated to get back to my journey and plan to start learning a linear algebra course.
 
 Thoughts: Learning  ML without reliable and sufficient mathematics infrastructures is like being a sailor who can't swim.
 
 #### Day 14: January 12th, 2019
-I've continued studying the week 5 sections of machine learning course at Coursera and get much more intuitions about the backpropagation algorithm. Despite it seems to be somehow complex at the first glance, it will become understandable after a bit more effort for sure.
+I've continued studying the week 5 sections of the machine learning course at Coursera and get many more intuitions about the backpropagation algorithm. Despite it seems to be somehow complex at first glance, it will become understandable after a bit more effort for sure.
 #100DaysOfMlCode #Day14
 
 #### Day 13: January 10th, 2019
-Get started into the week 5 of machine learning coures. In addition, I tried to study calculus in my free times.
+Get started into week 5 of the machine learning course. In addition, I tried to study calculus in my free time.
 #100DaysOfMlCode #Day13
 
 
@@ -45,7 +46,7 @@ started week4,
 #100DaysOfMlCode #Day9
 
 #### Day 8: December 31th, 2018
-Played with Octave and matrices for some hours. Also proceeded the coursera ML course and passed the rest viedos of week3. did week3 assignments.
+Played with Octave and matrices for some hours. I also proceeded the coursera ML course and passed the rest viedos of week3. did week3 assignments.
 #100DaysOfMlCode #Day8
 
 #### Day 7: December 30th, 2018
