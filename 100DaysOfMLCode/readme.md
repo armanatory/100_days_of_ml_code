@@ -13,9 +13,11 @@ Thoughts: xxx
 Links to paper: XXX
 
 -----
-#### Day 15: January 00th, 2019
+#### Day 15: December 27th, 2019
 #100DaysOfMlCode #Day15
+Today's Progress: After about one year of being out of my machine learning journey, I've got involved into entrance exam of RahnamaCollege ML camp. The contest has brought out the flavour of ML for me. I am so vigorous and motivated to start my journey again. I'm going to start learning a linear algebra course tonight.
 
+Thoughts: Learning  ML without reliable and sufficient mathematics infrastructures is like being a sailor who can't swim.
 
 #### Day 14: January 12th, 2019
 I've continued studying the week 5 sections of machine learning course at Coursera and get much more intuitions about the backpropagation algorithm. Despite it seems to be somehow complex at the first glance, it will become understandable after a bit more effort for sure.
